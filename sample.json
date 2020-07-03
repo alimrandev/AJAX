@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Imran",
+    "profession": "web developer",
+    "age": 27,
+    "email": "imran@eamil.com"
+  },
+  {
+    "name": "Ali",
+    "profession": "web developer",
+    "age": 26,
+    "email": "ali@eamil.com"
+  }
+]
